@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [https://github.com/Anonymous6503?tab=repositories](https://github.com/Anonymous6503?tab=repositories)
-
 - 💬 Ask me about **unity, unreal Engine, blender, maya, photoshop**
 
 - 📫 How to reach me **prakashrandhir16528@gmail.com**
