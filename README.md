@@ -21,7 +21,7 @@
 <a href="https://linkedin.com/in/randhir-prakash-2007501a6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="randhir-prakash-2007501a6" height="30" width="40" /></a>
 <a href="https://instagram.com/kumarandhir45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kumarandhir45" height="30" width="40" /></a>
 <a href="https://www.behance.net/randhirprakash6503" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="randhirprakash6503" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@randhir_prakash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@randhir_prakash1" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/randhir_prakash1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@randhir_prakash1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
