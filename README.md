@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **prakashrandhir16528@gmail.com**
 
-- 📄 Know about my experiences [Get My Resume!](https://drive.google.com/file/d/1d4UsIvf7A5AiFFmGbDinwbv26h4nViil/view?usp=sharing)
+- 📄 Know about my experiences [Get My Resume!](https://drive.google.com/file/d/1OuIUl0yXzRW4va1EQKR6kqltptH5RJPX/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I am Smart**
 
