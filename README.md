@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anonymous6503" alt="anonymous6503" /></a> </p>
 
-- 🌱 I’m currently learning **Python**
+- 🌱I am Game developer proficient in **Unity3d**
 
 - 💬 Ask me about **unity, unreal Engine, blender, maya, photoshop**
 
